@@ -1,0 +1,14 @@
+[
+  {
+    "model": "employee.employee",
+    "fields": {
+      "emp_id": 10389,
+      "forename": "jack",
+      "surname": "smith",
+      "title": "Mr",
+      "gender": "M",
+      "age": 31,
+      "date_of_birth": "1990-04-12"
+    }
+  }
+]

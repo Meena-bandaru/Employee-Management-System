@@ -1,0 +1,9 @@
+[
+  {
+    "model": "employee.organization",
+    "fields": {
+      "org_id": 100,
+      "name": "uergfuihwbds"
+    }
+  }
+]

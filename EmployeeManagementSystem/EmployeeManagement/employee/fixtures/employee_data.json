@@ -1,0 +1,15 @@
+[
+
+  {
+    "model": "employee.emp",
+    "fields": {
+      "emp_id": 134345,
+      "fore_name": "tom",
+      "surname": "jerry",
+      "title": "Mrs",
+      "gender": "M",
+      "date_of_birth": "12-05-1999"
+    }
+  }
+
+]
